@@ -16,7 +16,7 @@
     height: 150px;
     border-radius: 35%;
     margin-bottom: 0px;
-    border: 5px solid #5b436eff;
+    border: 5px solid #000000;
 }
 </style>
 
