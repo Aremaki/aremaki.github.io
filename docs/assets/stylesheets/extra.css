@@ -293,6 +293,11 @@ a.button-link.yellow-button {
     --base-color: #ffeb3b;
 }
 
+a.button-link.dark-yellow-button {
+    --base-color: #FFD21E;
+}
+
+
 a.button-link.orange-button {
     --base-color: #ff9800;
 }
