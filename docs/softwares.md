@@ -23,7 +23,7 @@ title: Softwares
 Open-source softwares I have led across research projects.
 
 === card
-    [📄 **LongBEL**](https://github.com/Aremaki/LongBEL)
+    [📄 **LongBEL**](https://huggingface.co/collections/Aremaki/longbel)
     ---
     [Code](https://github.com/Aremaki/LongBEL){ .button-link .purple-button } • [Article](https://openreview.net/forum?id=5EKQjSuR3y#discussion){ .button-link .blue-button } • [Models](https://huggingface.co/collections/Aremaki/longbel){ .button-link .dark-yellow-button }
 
@@ -31,7 +31,7 @@ Open-source softwares I have led across research projects.
 
 
 === card
-    [🤖 **SynCABEL**](https://huggingface.co/collections/Aremaki/syncabel-6879464c408df85057979e13)
+    [🤖 **SynCABEL**](https://huggingface.co/collections/Aremaki/syncabel)
     ---
     [Code](https://github.com/Aremaki/SynCABEL){ .button-link .purple-button } • [Article](https://doi.org/10.24963/ijcai.2026/763){ .button-link .blue-button } • [Models](https://huggingface.co/collections/Aremaki/syncabel){ .button-link .dark-yellow-button } • [Datasets](https://huggingface.co/datasets/Aremaki/SynCABEL){ .button-link .green-button } • [Poster](/assets/files/2026_08_15_IJCAI.pdf){ .button-link .pink-button }
 
