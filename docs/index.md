@@ -24,7 +24,7 @@
     
 ![Me](assets/me.jpg)
 # Adam Remaki
-[:simple-gmail:{ .mail }](mailto:adam.remaki@etu.sorbonne-universite.fr) [:fontawesome-brands-github:{ .github }](https://github.com/Aremaki) [:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/adam-remaki-402aaa174) [:simple-googlescholar:{ .scholar }](https://scholar.google.com/citations?user=nELf6ngAAAAJ&hl=en) [:simple-orcid:{ .orcid }](https://orcid.org/0000-0002-8902-8207)
+[:simple-gmail:{ .mail }](mailto:ad.remaki@gmail.com) [:fontawesome-brands-github:{ .github }](https://github.com/Aremaki) [:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/adam-remaki) [:simple-googlescholar:{ .scholar }](https://scholar.google.com/citations?user=nELf6ngAAAAJ&hl=en) [:simple-orcid:{ .orcid }](https://orcid.org/0000-0002-8902-8207)
 
 </div>
 
