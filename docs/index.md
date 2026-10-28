@@ -24,7 +24,11 @@
     
 ![Me](assets/me.jpg)
 # Adam Remaki
-[:simple-gmail:{ .mail }](mailto:ad.remaki@gmail.com) [:fontawesome-brands-github:{ .github }](https://github.com/Aremaki) [:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/adam-remaki) [:simple-googlescholar:{ .scholar }](https://scholar.google.com/citations?user=nELf6ngAAAAJ&hl=en) [:simple-orcid:{ .orcid }](https://orcid.org/0000-0002-8902-8207)
+[:simple-gmail:{ .mail }](mailto:ad.remaki@gmail.com) [:fontawesome-brands-github:{ .github }](https://github.com/Aremaki)
+<a href="https://huggingface.co/Aremaki" title="Hugging Face">
+<img src="assets/icons/huggingface.svg" alt="Hugging Face" class="huggingface">
+</a>
+[:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/adam-remaki) [:simple-googlescholar:{ .scholar }](https://scholar.google.com/citations?user=nELf6ngAAAAJ&hl=en)
 
 </div>
 

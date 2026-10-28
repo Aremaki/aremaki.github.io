@@ -8,6 +8,7 @@ nav:
   - Softwares: softwares.md
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       toggle:
@@ -30,15 +31,16 @@ theme:
 extra:
   social:
     - icon: simple/gmail
-      link: mailto:adam.remaki@etu.sorbonne-universite.fr
+      link: mailto:ad.remaki@gmail.com
     - icon: fontawesome/brands/github 
       link: https://github.com/Aremaki
+    - icon: huggingface
+      link: https://huggingface.co/Aremaki
+      name: Hugging Face
     - icon: fontawesome/brands/linkedin 
-      link: https://www.linkedin.com/in/adam-remaki-402aaa174
+      link: https://www.linkedin.com/in/adam-remaki
     - icon: simple/googlescholar
       link: https://scholar.google.com/citations?user=nELf6ngAAAAJ&hl=en
-    - icon: simple/orcid
-      link: https://orcid.org/0000-0002-8902-8207
 extra_css:
   - assets/stylesheets/extra.css
 watch:
