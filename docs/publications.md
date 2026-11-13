@@ -2,7 +2,7 @@
 
 ## 2026
 <u>Adam Remaki</u>, Xavier Tannier, Christel Gérardin   
-**LongBEL: Long-Context and Document-Consistent Biomedical Entity Linking** *(under review at EACL 2027)*  
+**LongBEL: Long-Context and Document-Consistent Biomedical Entity Linking** *(accepted at EACL 2027)*  
 [Article](https://openreview.net/forum?id=5EKQjSuR3y#discussion){ .button-link .blue-button } • [Code](https://github.com/Aremaki/LongBEL){ .button-link .purple-button } • [Models](https://huggingface.co/collections/Aremaki/longbel){ .button-link .dark-yellow-button }
 
 ---
